@@ -1,0 +1,95 @@
+Tree window for taxa "Taxa"
+
+----------------
+Showing Tree block: Trees from "Avian-TimeTree.tre"
+----------------
+
+Original Tree:  TREE1+++++ (id 153, version 227)
+
+Tree Description:  (((((Kakapo:60.35793395,P.lemoinei:42.900000000000006):4.7333110000000005,(FlgtlessCormorant:64.025735,((TiticacaGrebe:15.97,JuninGrebe:15.97):45.421391,GreatAuk:61.391391):2.634345):1.065508):0.648648,((InaccessibleIsRail:4.072,(Weka:3.072,(GuamRail:0.3,LordHoweRail:0.3):2.772):1):11.903945,((GiantCoot:9.4208,(TasNativehen:6,TristanMoorhen:6):3.4208):5.7344,(NIsTakahe:13.9264,LaysanRail:13.9264):1.2288):0.820745):49.763946):0.767205,RdrgsSolitaire:66.507097):5.349545,((BermudaFLDuck:3.72629,(FalklandSD:1.4,(FuegianSD:0.015,ChubutSD:0.015):1.385):2.32629):1.57331,NZMerganser:5.2996):66.55704200000001):1.050597;
+Tree with node numbers:
+                           ,=============8 Kakapo
+                      ,===7|
+                      |    `=============9 P.lemoinei
+                 ,===6|
+                 |    |    ,============11 FlgtlessCormorant
+                 |    |    |
+                 |    `==10|         ,==14 TiticacaGrebe
+                 |         |    ,==13|
+                 |         `==12|    `==15 JuninGrebe
+                 |              |
+            ,===5|              `=======16 GreatAuk
+            |    |
+            |    |         ,============19 InaccessibleIsRail
+            |    |    ,==18|
+            |    |    |    |    ,=======21 Weka
+            |    |    |    `==20|
+            |    |    |         |    ,==23 GuamRail
+            |    |    |         `==22|
+            |    `==17|              `==24 LordHoweRail
+            |         |
+       ,===4|         |         ,=======27 GiantCoot
+       |    |         |    ,==26|
+       |    |         |    |    |    ,==29 TasNativehen
+       |    |         |    |    `==28|
+       |    |         `==25|         `==30 TristanMoorhen
+       |    |              |
+       |    |              |    ,=======32 NIsTakahe
+       |    |              `==31|
+======2|    |                   `=======33 LaysanRail
+       |    |
+       |    `===========================34 RdrgsSolitaire
+       |
+       |         ,======================37 BermudaFLDuck
+       |    ,==36|
+       |    |    |    ,=================39 FalklandSD
+       |    |    `==38|
+       `==35|         |    ,============41 FuegianSD
+            |         `==40|
+            |              `============42 ChubutSD
+            |
+            `===========================43 NZMerganser
+Branch lengths
+Node	Term/Int	Length
+
+node 2: 	Internal	1.050597
+node 4: 	Internal	5.349545
+node 5: 	Internal	0.767205
+node 6: 	Internal	0.648648
+node 7: 	Internal	4.7333110000000005
+node 8: 	Terminal	60.35793395
+node 9: 	Terminal	42.900000000000006
+node 10: 	Internal	1.065508
+node 11: 	Terminal	64.025735
+node 12: 	Internal	2.634345
+node 13: 	Internal	45.421391
+node 14: 	Terminal	15.97
+node 15: 	Terminal	15.97
+node 16: 	Terminal	61.391391
+node 17: 	Internal	49.763946
+node 18: 	Internal	11.903945
+node 19: 	Terminal	4.072
+node 20: 	Internal	1.0
+node 21: 	Terminal	3.072
+node 22: 	Internal	2.772
+node 23: 	Terminal	0.3
+node 24: 	Terminal	0.3
+node 25: 	Internal	0.820745
+node 26: 	Internal	5.7344
+node 27: 	Terminal	9.4208
+node 28: 	Internal	3.4208
+node 29: 	Terminal	6.0
+node 30: 	Terminal	6.0
+node 31: 	Internal	1.2288
+node 32: 	Terminal	13.9264
+node 33: 	Terminal	13.9264
+node 34: 	Terminal	66.507097
+node 35: 	Internal	66.55704200000001
+node 36: 	Internal	1.57331
+node 37: 	Terminal	3.72629
+node 38: 	Internal	2.32629
+node 39: 	Terminal	1.4
+node 40: 	Internal	1.385
+node 41: 	Terminal	0.015
+node 42: 	Terminal	0.015
+node 43: 	Terminal	5.2996

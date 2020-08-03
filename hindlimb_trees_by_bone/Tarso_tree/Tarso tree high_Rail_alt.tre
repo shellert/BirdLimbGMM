@@ -1,0 +1,292 @@
+#NEXUS
+[written Mon Apr 09 12:21:35 EDT 2018 by Mesquite  version 3.40 (build 877) at Spencers-MacBook-Pro-2.local/192.168.50.203]
+
+BEGIN TAXA;
+	TITLE Untitled_Block_of_Taxa;
+	DIMENSIONS NTAX=78;
+	TAXLABELS
+		Nene NBKiwi RTHumbird RuffedGrouse SCassowary Gull Dodo RdrgsSolitaire YllwLggdTin Emu ElegCrstdTin AmericanKestrel Ibis Kea ChileanTin Hoatzin FlgtlessCormorant LaysanRail GreaterRhea Ostrich GreatTin AndrosIslandBarnOwl GreatAuk DarwinsRhea GSKiwi LSKiwi SBKiwi NCassowary EasternMoa BushMoa HeavyFootedMoa SIsGiantMoa NIsGiantMoa SpottedNothura DarwinsNothura AndeanTin UndulatedTin LittleTin IndianPeafowl FuegianSD ChubutSD FlyingSD FalklandSD DiatrymaGig MagnificentBoP KingBoP Kakapo P.lemoinei P.bachmani A.otidiformis BaldEagle Weka BuffBanRail LordHoweRail GuamRail Sora MascareneCoot TristanMoorhen TasNativehen NIsTakahe YllwCrwndAmazon Budgie Cockatiel NZMerganser CommonGoldeneye BroadBilledMoa LawsDivingSeaDuck AmericanCoot GiantCoot RockPigeon RedLggdSeriema StripedManakin TiticacaGrebe HornedGrebe DblCrstdCormorant CassinsAuklet ShrtTldShearwater JuninGrebe 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title 'Trees from "Avian-TimeTree.tre"';
+	ID 01611f93e93b4;
+	LINK Taxa = Untitled_Block_of_Taxa;
+	TRANSLATE
+[0] 		n0 Nene,
+[1] 		n1 NBKiwi,
+[2] 		n2 RTHumbird,
+[3] 		n3 RuffedGrouse,
+[4] 		n4 SCassowary,
+[5] 		n5 Gull,
+[6] 		n6 Dodo,
+[7] 		n7 RdrgsSolitaire,
+[8] 		n8 YllwLggdTin,
+[9] 		n9 Emu,
+[10] 		n10 ElegCrstdTin,
+[11] 		n11 AmericanKestrel,
+[12] 		n12 Ibis,
+[13] 		n13 Kea,
+[14] 		n14 ChileanTin,
+[15] 		n15 Hoatzin,
+[16] 		n16 FlgtlessCormorant,
+[17] 		n17 LaysanRail,
+[18] 		n18 GreaterRhea,
+[19] 		n19 Ostrich,
+[20] 		n20 GreatTin,
+[21] 		n21 AndrosIslandBarnOwl,
+[22] 		n22 GreatAuk,
+[23] 		n23 DarwinsRhea,
+[24] 		n24 GSKiwi,
+[25] 		n25 LSKiwi,
+[26] 		n26 SBKiwi,
+[27] 		n27 NCassowary,
+[28] 		n28 EasternMoa,
+[29] 		n29 BushMoa,
+[30] 		n30 HeavyFootedMoa,
+[31] 		n31 SIsGiantMoa,
+[32] 		n32 NIsGiantMoa,
+[33] 		n33 SpottedNothura,
+[34] 		n34 DarwinsNothura,
+[35] 		n35 AndeanTin,
+[36] 		n36 UndulatedTin,
+[37] 		n37 LittleTin,
+[38] 		n38 IndianPeafowl,
+[39] 		n39 FuegianSD,
+[40] 		n40 ChubutSD,
+[41] 		n41 FlyingSD,
+[42] 		n42 FalklandSD,
+[43] 		n43 DiatrymaGig,
+[44] 		n44 MagnificentBoP,
+[45] 		n45 KingBoP,
+[46] 		n46 Kakapo,
+[47] 		n47 P.lemoinei,
+[48] 		n48 P.bachmani,
+[49] 		n49 A.otidiformis,
+[50] 		n50 BaldEagle,
+[51] 		n51 Weka,
+[52] 		n52 BuffBanRail,
+[53] 		n53 LordHoweRail,
+[54] 		n54 GuamRail,
+[55] 		n55 Sora,
+[56] 		n56 MascareneCoot,
+[57] 		n57 TristanMoorhen,
+[58] 		n58 TasNativehen,
+[59] 		n59 NIsTakahe,
+[60] 		n60 YllwCrwndAmazon,
+[61] 		n61 Budgie,
+[62] 		n62 Cockatiel,
+[63] 		n63 NZMerganser,
+[64] 		n64 CommonGoldeneye,
+[65] 		n65 BroadBilledMoa,
+[66] 		n66 LawsDivingSeaDuck,
+[67] 		n67 AmericanCoot,
+[68] 		n68 GiantCoot,
+[69] 		n69 RockPigeon,
+[70] 		n70 RedLggdSeriema,
+[71] 		n71 StripedManakin,
+[72] 		n72 TiticacaGrebe,
+[73] 		n73 HornedGrebe,
+[74] 		n74 DblCrstdCormorant,
+[75] 		n75 CassinsAuklet,
+[76] 		n76 ShrtTldShearwater,
+[77] 		n77 JuninGrebe;
+	TREE 'TREE1+++' = ((((((((((((((n44:3,n45:3):43.836888,n71:46.836888):9.422976,(((n60:14.376329,n61:14.376329):9.810458,n62:24.186787):8.600904,(n46:24.5907682,n13:24.5907682):8.19692275):23.472173):2.524747,n11:58.78461):1.573323,(n70:39.507933,(n47:1.2,n48:5.892):20.85):20.85):1.655527,n21:62.01346100000001):1.0940020000000001,n50:62.909919):1.0940020000000001,n15:64.201465):0.88978,(((n12:57.3765,(n74:4,n16:4):53.3765):3.986851,n76:61.391391):2.662384,((n72:15.97,(n77:4,n73:4):11.97):45.421391,(n5:16.371704,(n75:4,n22:4):12.371704):45.019687):2.634345):1.065508):0.648648,(n49:19,((n51:3.072,(n54:1.2288,(n52:0.8193,n53:0.8193):0.4095):1.8432):12.903945,(((n56:3.048,(n67:2.048,n68:2.048):1):6.3728,(n55:8.6016,(n58:3,n57:3):5.6016):0.8192):5.7344,(n59:13.9264,n17:13.9264):1.2288):0.820745):3.024055):46.739891):0.767205,((n6:17.5,n7:17.5):12.5,n69:30):36.507097):0.912384,n2:67.419482):4.437161,((n3:10.203248,n38:10.203248):44.408487,(n43:53.611735,((((n42:1.4,(n39:0.015,(n40:0.0075,n41:0.0075):0.0075):1.385):3.31999,n66:4.71999):0.57961,(n64:4.223,n63:4.223):1.0766):8.919922,n0:14.219522):39.392213000000005):1):17.244907):1.050597,((((((((n14:5,n35:5):7,(n33:5,n34:5):7):8.278716,n10:20.278716):4.498021,(n8:16.728328,((n37:5,n36:5):5,n20:10):6.728328):8.04841):11.223871,((n31:3,n32:3):20.000609,(n30:6.2,((n28:2.5,n65:2.5):2.2,n29:4.7):1.5):16.800609):13):3.223871,(((n24:0.075,n25:0.075):4.925,(n26:0.075,n1:0.075):4.925):26.824479,((n4:4.669614,n27:4.669614):4.669614,n9:9.339228):22.485251):7.4):4.5400100000000005,(n23:8.6,n18:8.6):35.16449):6.824623,n19:50.589113):22.318125);
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1523290895197;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 3800724994137911738;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 100;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1455 854;
+			setLocation 1488 42;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			showTaxa #3800724994137911738 #mesquite.lists.TaxonList.TaxonList;
+			tell It;
+				setTaxa #3800724994137911738;
+				getWindow;
+				tell It;
+					useTargetValue off;
+					setTargetValue ;
+					newAssistant  #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1355 782;
+					setLocation 1488 42;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.lists.ColorTaxon.ColorTaxon;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #3800724994137911738  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					setTreeBlockID 01611f93e93b4;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 2165.1523040959567.8749760465159999642;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1355 782;
+					setLocation 1488 42;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.trees.BasicTreeWindowMaker.BasicTreeWindow.zoom;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareLineTree.SquareLineTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle on;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+							setFixedTaxonDistance 0;
+						endTell;
+						setEdgeWidth 4;
+						showEdgeLines on;
+						orientUp;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths on;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						toggleColorPartition off;
+						toggleColorAssigned on;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					setTree '((((((((((((((45:3,46:3):43.836888,72:46.836888):9.422976,(((61:14.376329,62:14.376329):9.810458,63:24.186787):8.600904,(47:24.5907682,14:24.5907682):8.19692275):23.472173):2.524747,12:58.78461):1.573323,(71:39.507933,(48:1.2,49:5.892):20.85):20.85):1.655527,22:62.01346100000001):1.0940020000000001,51:62.909919):1.0940020000000001,16:64.201465):0.88978,(((13:57.3765,(75:1.97,17:1.97):55.4065):3.986851,77:61.391391):2.662384,((73:15.97,(78:4,74:4):11.97):45.421391,(6:32.5,(76:28,23:28):4.5):28.891391):2.634345):1.065508):0.648648,(50:19,((52:3.072,(55:0.3,(53:0.2,54:0.2):0.1):2.772):12.903945,(((57:3.048,(68:2.048,69:2.048):1):6.3728,(56:8.6016,(59:6,58:6):2.6016):0.8192):5.7344,(60:13.9264,18:13.9264):1.2288):0.820745):3.024055):46.739891):0.767205,((7:17.5,8:17.5):12.5,70:30):36.507097):0.912384,3:67.419482):4.437161,((4:10.203248,39:10.203248):44.408487,(44:53.611735,((((43:1.4,(40:0.015,(41:0.014,42:0.014):0.01):1.385):3.31999,67:4.71999):0.57961,(65:4.223,64:4.223):1.0766):8.919922,1:14.219522):39.392213000000005):1):17.244907):1.050597,((((((((15:5,36:5):7,(34:5,35:5):7):8.278716,11:20.278716):4.498021,(9:16.728328,((38:5,37:5):5,21:10):6.728328):8.04841):11.223871,((32:3,33:3):20.000609,(31:6.2,((29:2.5,66:2.5):2.2,30:4.7):1.5):16.800609):13):3.223871,(((25:2.9,26:2.9):5.3,(27:5.8,2:5.8):2.4):23.624479,((5:4.669614,28:4.669614):4.669614,10:9.339228):22.485251):7.4):4.5400100000000005,(24:8.6,19:8.6):35.16449):6.824623,20:50.589113):22.318125);';
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 2;
+					toggleTextOnTree off;
+					togglePrintName on;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					setDigits 4;
+					setThreshold ?;
+					writeAsPercentage off;
+					toggleCentred off;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					toggleShowOnTerminals on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+					toggleShowOnTerminals on;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+
